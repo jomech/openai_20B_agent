@@ -1,0 +1,19 @@
+# Ignore virtual environment
+.venv/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore node_modules (if frontend is React/Vite)
+frontend/node_modules/
+
+# Ignore environment variables
+.env
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore build and dist files
+dist/
+build/
